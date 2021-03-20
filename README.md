@@ -12,15 +12,15 @@
 - [ ] checkbox2
 - [ ] checkbox3
 
-'小區塊'
+` 小區塊 `
 
 code (4 spces indent)
 
-'''
+```
 for(i = 0; i < 10; i++) {
     x++;
 }
-'''
+```
 
 > Text1
 >> Text2
