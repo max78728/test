@@ -1,7 +1,7 @@
-# ¼ĞÃD¤@
-## ¼ĞÃD¤G
-###### ¼ĞÃD¤»
-**²ÊÅé**
+# æ¨™é¡Œä¸€
+## æ¨™é¡ŒäºŒ
+###### æ¨™é¡Œå…­
+**ç²—é«”**
 
 * Item1
 * Item2
@@ -12,18 +12,24 @@
 - [ ] checkbox2
 - [ ] checkbox3
 
-' ¤p°Ï¶ô '
+'å°å€å¡Š'
 
 code (4 spces indent)
 
-'''js
-int x = 0;
-if(x == 0)
-    return;
+'''
+for(i = 0; i < 10; i++) {
+    x++;
+}
 '''
 
 > Text1
 >> Text2
 
-| Text1
-|| Text2
+- Item1
++ Item2
+
+1. Text1
+2. Text2
+
+---
+***
